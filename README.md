@@ -36,3 +36,19 @@ The goal of this project was to create a Rock, Paper, Scissors game using Python
     > At the end of the game, have it print out which player won, and what the final scores are.
 * [x] Check your code formatting
     > Use the `pycodestyle` tool to check the formatting of your code. Make the edits that it recommends, then re-run it to see fewer and fewer warnings. By the time you're done, it should display _no warnings or errors_ at all. 
+
+<p>&nbsp;</p>
+
+
+### The game starts by running the following command:
+```
+python3 adventure-game.py
+```
+or
+```
+./adventure-game.py
+```
+
+<p>&nbsp;</p>
+
+### You must have Python 3 installed. Download it [here](https://www.python.org/downloads/).
